@@ -1,3 +1,3 @@
-# Comparison-of-Different-Text-Summarization-Techniques
+# Abstractive Text Summarization in the Age of Information Overload: A Model Comparison Study
 
 In today's digital world, much information is created daily. Reading, gathering, and summarising material can become laborious and prone to human error. Text summarization is an increasingly important Machine Learning task as it becomes a common way to determine relevant information from many documents. As text summarization has increased in utilization, multiple methods have been developed for this task. We will be using three different abstractive methods, Term Frequency – Inverse Document Frequency, Transformers, and Sequence-to-Sequence, for text summarization and comparing the performance of each modelling type through the similarity of each model's output to an existing summary of the corpus.   
